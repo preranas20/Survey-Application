@@ -21,7 +21,8 @@ The mobile application code is stored in the
 Mobile App
 
 The mobile app should provide authentication, using a username and password mechanism. This app is only used by the patient role.
-The mobile app should present the survey questions in the survey provided [Link (Links to an external site.)Links to an external site.]. The survey questions should be presented in a usable way to the user and should not be presented as a long list of questions. The user should be able to move from one screen to the other only when they answer the questions on the current app view. Your survey should provide validation to the user input and should alert the user when incorrect input is provided.
+The mobile app should present the survey questions in the survey provided [Link }(http://apps.who.int/iris/bitstream/handle/10665/67205/WHO_MSD_MSB_01.6a.pdf;jsessionid=DA40F8622B8C1BFC547EB7B70DB32722?sequence=1).
+The survey questions should be presented in a usable way to the user and should not be presented as a long list of questions. The user should be able to move from one screen to the other only when they answer the questions on the current app view. Your survey should provide validation to the user input and should alert the user when incorrect input is provided.
 The user responses should be stored on the server and all communication with the server should be enabled through APIs.
 In addition to the username/password authentication method, assuming the patient is at the clinic when they are logging into the app, and the admin is also in the clinic when they create the new user credentials.
 Create an approach to pass on the user credentials or authentication information to the app other than giving the username and password to the patient. Your approach should not simply provide the user with the username and password on a piece of paper. You are allowed to use other communication channels that are available in on the phone.
